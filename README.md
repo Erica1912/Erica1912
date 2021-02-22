@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 [![Twitter Badge](https://img.shields.io/badge/-@ericaandrearuiz-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ericaandrearuiz)](https://twitter.com/ericaandrearuiz)
 
 
-Welcome to my profile! I'm a student interning @Microsoft, an aspiring [writer](https://medium.com/@_jessicalim), part-time coder and full-time adventure seeker. Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/jlim/)!
+I am a data science, database lover, trying to be a developer, in my free time I love photography.!
 <!--
 
 ## Join the Community Word Cloud :cloud: :pencil2:
