@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-ericaRuiz-blue?style=flat&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/erica-andrea-ruiz-tabarez-529655186/)](https://www.linkedin.com/in/erica-andrea-ruiz-tabarez-529655186/)
-[![Website Badge](https://img.shields.io/badge/-ericaruiz.com?style=flat&logo=Google-Chrome&logoColor=white&link=https://ericaruiz.com)](https://ericaruiz.com)
+[![Website Badge](https://img.shields.io/badge/-ericaruiz-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://jessicalim.me)](https://jessicalim.me)
 [![Twitter Badge](https://img.shields.io/badge/-@__jesslim-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_jesslim)](https://twitter.com/_jesslim)
 <!--
 [![Instagram Badge](https://img.shields.io/badge/-@jlim__slam-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/jlim_slam/)](https://instagram.com/jlim_slam)
