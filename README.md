@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 [![Linkedin Badge](https://img.shields.io/badge/-ericaRuiz-blue?style=flat&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/erica-andrea-ruiz-tabarez-529655186/)](https://www.linkedin.com/in/erica-andrea-ruiz-tabarez-529655186/)
 [![Website Badge](https://img.shields.io/badge/-ericaruiz-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=http://www.ericaruiz.com)](http://www.ericaruiz.com)
-[![Twitter Badge](https://img.shields.io/badge/-@ericaandrearuiz?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ericaandrearuiz)](https://twitter.com/ericaandrearuiz)
+[![Twitter Badge](https://img.shields.io/badge/-@ericaandrearuiz-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_jesslim)](https://twitter.com/_jesslim)
 <!--
 [![Instagram Badge](https://img.shields.io/badge/-@jlim__slam-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/jlim_slam/)](https://instagram.com/jlim_slam)
 [![Gmail Badge](https://img.shields.io/badge/-jessicalim813-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jessicalim813@gmail.com)](mailto:jessicalim813@gmail.com)
