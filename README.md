@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-ericaRuiz-blue?style=flat&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/erica-andrea-ruiz-tabarez-529655186/)](https://www.linkedin.com/in/erica-andrea-ruiz-tabarez-529655186/)
-
 [![Website Badge](https://img.shields.io/badge/-ericaruiz?style=flat&logo=Google-Chrome&logoColor=white&link=https://ericaruiz.com)](https://ericaruiz.com)
 [![Twitter Badge](https://img.shields.io/badge/-@__jesslim-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_jesslim)](https://twitter.com/_jesslim)
 <!--
