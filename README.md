@@ -34,4 +34,5 @@ I am a data science, database lover, trying to be a developer, in my free time I
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Erica1912&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Erica1912)](https://github.com/Erica1912/github-readme-stats)
+
