@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 [![Linkedin Badge](https://img.shields.io/badge/-ericaRuiz-blue?style=flat&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/erica-andrea-ruiz-tabarez-529655186/)](https://www.linkedin.com/in/erica-andrea-ruiz-tabarez-529655186/)
 [![Website Badge](https://img.shields.io/badge/-ericaruiz-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://erica1912.github.io/EricaRuiz/)](https://erica1912.github.io/EricaRuiz/)
-[![Twitter Badge](https://img.shields.io/badge/-@ericaandrearuiz-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ericaandrearuiz)](https://twitter.com/ericaandrearuiz)
+style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ericaandrearuiz)](https://twitter.com/ericaandrearuiz)
 
 
 I am a data science, database lover, trying to be a developer, in my free time I love photography.!
