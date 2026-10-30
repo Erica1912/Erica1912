@@ -48,12 +48,39 @@ I am a data science, database lover, trying to be a developer, in my free time I
 
 **Languages and Tools:**  
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+☁️ **Cloud & Infrastructure**
+
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png" alt="AWS"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/terraform/terraform.png" alt="Terraform"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/azure/azure.png" alt="Azure"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/google-cloud/google-cloud.png" alt="Google Cloud"></code>
+
+🐳 **Containers & Orchestration**
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png" alt="Docker"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/kubernetes/kubernetes.png" alt="Kubernetes"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/helm/helm.png" alt="Helm"></code>
+
+⚙️ **CI/CD & DevOps**
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png" alt="GitHub"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/githubactions/githubactions.png" alt="GitHub Actions"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/jenkins/jenkins.png" alt="Jenkins"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" alt="Git"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png" alt="Linux"></code>
+
+📊 **Monitoring & Observability**
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/prometheus/prometheus.png" alt="Prometheus"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/grafana/grafana.png" alt="Grafana"></code>
+
+💻 **Programming & Scripting**
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="Python"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/bash/bash.png" alt="Bash"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="JavaScript"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/yaml/yaml.png" alt="YAML"></code>
+
+🤖 **AI & Automation**
+<code><img height="30" src="https://cdn.simpleicons.org/openai" alt="OpenAI"></code>
+<code><img height="30" src="https://cdn.simpleicons.org/ansible" alt="Ansible"></code>
+<code><img height="30" src="https://cdn.simpleicons.org/langchain" alt="LangChain"></code>
 
 📈 **My GitHub Stats**
 
