@@ -1,5 +1,3 @@
-# Hi I'm Erica 👋
-
 # Hi, I'm Erica Ruiz 👋
 
 ### Senior DevOps Engineer | Cloud Infrastructure | AWS | Kubernetes | AI
