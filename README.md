@@ -1,22 +1,45 @@
 # Hi I'm Erica 👋
 
-<!--
-**Erica1912/Erica1912** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Erica Ruiz 👋
 
-Here are some ideas to get you started:
+### Senior DevOps Engineer | Cloud Infrastructure | AWS | Kubernetes | AI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+I'm a DevOps and Cloud Infrastructure Engineer passionate about designing, building, and optimizing scalable, secure, and resilient cloud environments.
+
+I enjoy solving complex infrastructure challenges, automating operations, improving cloud efficiency, and helping engineering teams deliver software faster and more reliably.
+
+---
+
+### 🚀 Technical Expertise
+
+- **Cloud Platforms:** AWS
+- **Containers & Orchestration:** Kubernetes, Amazon EKS, Docker
+- **Infrastructure as Code:** Terraform
+- **CI/CD:** GitHub Actions, Jenkins
+- **Monitoring & Observability:** Prometheus, Grafana
+- **DevOps & SRE:** Automation, Infrastructure Optimization, Platform Engineering
+- **AI & Innovation:** Artificial Intelligence applied to DevOps and Cloud Infrastructure
+
+### 💡 Areas of Interest
+
+- Cloud architecture and infrastructure optimization.
+- Kubernetes and container orchestration.
+- DevOps automation and platform engineering.
+- AI-driven infrastructure management.
+- Cloud cost optimization and FinOps.
+- Building innovative solutions for cloud operations.
+
+### 🌱 Currently Exploring
+
+- AI-powered DevOps solutions.
+- Intelligent cloud infrastructure optimization.
+- Automation and next-generation platform engineering.
 
 
--->
 
+---
+
+⭐ *Building better infrastructure, one automation at a time.*
 
 [![Linkedin Badge](https://img.shields.io/badge/-ericaRuiz-blue?style=flat&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/erica-andrea-ruiz-tabarez-529655186/)](https://www.linkedin.com/in/erica-andrea-ruiz-tabarez-529655186/)
 [![Website Badge](https://img.shields.io/badge/-ericaruiz-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://erica1912.github.io/EricaRuiz/)](https://erica1912.github.io/EricaRuiz/)
